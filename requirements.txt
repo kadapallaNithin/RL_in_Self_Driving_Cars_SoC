@@ -1,0 +1,8 @@
+stable-baselines3
+# gymnasium==1.1.1
+gymnasium[classic_control]
+# opencv-python==4.11.0.86
+opencv-python
+# highway-env==1.10.1
+highway-env
+gymnasium[other]
